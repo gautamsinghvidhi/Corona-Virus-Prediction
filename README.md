@@ -4,17 +4,19 @@ The repository contains Aldema analysis of the Corona Virus pandemic, Covid-19, 
 Contact: gautamsinghvidhi@gmail.com
 
 ## Some example reports:
-![](Germany_aldema2_2400x1600)
+![](Germany/Germany_aldema2_2400x1600.png)
 
 <hr>
 
-![](China_aldema2_2400x1600.png)
+![](China/China_aldema2_2400x1600.png)
 
 <hr>
 
-![](South_korea_aldema2_2400x1600)
+![](South_Korea/South_korea_aldema2_2400x1600.png)
 
 <hr>
 
-![](Italy_aldema2_2400x1600)
+![](Italy/Italy_aldema2_2400x1600.png)
+
+<hr>
 Eigentum der Devoken Research AG Dortmund, alle Streitigkeiten werden vor dem Landesgericht Dortmund beigelegt
