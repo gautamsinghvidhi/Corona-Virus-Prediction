@@ -19,4 +19,8 @@ Suggestions: gautamsinghvidhi@gmail.com
 ![](Italy/Italy_aldema2_2400x1600.png)
 
 <hr>
+
+![](United_States/United_States_aldema2_2400x1600.png)
+
+<hr>
 Eigentum der Devoken Research AG Dortmund, alle Streitigkeiten werden vor dem Landesgericht Dortmund beigelegt
