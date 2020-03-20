@@ -20,6 +20,7 @@ Suggestions: gautamsinghvidhi@gmail.com
 
 <hr>
 
+### United States as many other nations hasn't converged yet. Expected to converge within days
 ![](United_States/United_States_aldema2_2400x1600.png)
 
 <hr>
