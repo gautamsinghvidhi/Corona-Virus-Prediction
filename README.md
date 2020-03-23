@@ -1,5 +1,5 @@
 # Corona-Virus-Prediction
-The repository contains Aldema analysis of the Corona Virus pandemic, Covid-19, Coronavirus, SARS COV 2. This analysis helps predict the spread curve giving useful information like how much ultimately a place will get affected and when will it stop or saturate.
+The repository contains Aldema analysis of the Corona Virus pandemic, Covid-19, Coronavirus, SARS COV 2. This analysis helps predict the spread curve giving useful information like how much ultimately a place will get affected and when will it stop or saturate. The real data is extremely sensitive to the actions taken by the governments and hence the graph can only be trusted for next few days only.
 
 Suggestions: gautamsinghvidhi@gmail.com
 
@@ -20,8 +20,13 @@ Suggestions: gautamsinghvidhi@gmail.com
 
 <hr>
 
-### United States as many other nations hasn't converged yet. Expected to converge within days
+### United States hasn't converged yet.
 ![](United_States/United_States_aldema2_2400x1600.png)
+
+<hr>
+
+### World hasn't converged yet.
+![](World/World_aldema2_2400x1600.png)
 
 <hr>
 Eigentum der Devoken Research AG Dortmund, alle Streitigkeiten werden vor dem Landesgericht Dortmund beigelegt
